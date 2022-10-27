@@ -1,0 +1,2 @@
+861464 72247 1666844173622703600 31cf2cff67fa2fe816a2a7ccac0c6144 /media/jackson/Data/Coding and Related Projects/zig-test/hello-world/zig-cache/o/03032b1c25b38a79ccd97084dac5ed4d/hello-world.o
+61950 19413 1666844166818160556 ca60eb3839c7eab2f07285728b835e09 /home/jackson/.cache/zig/o/6d04ed3af226eac95ce22bf61ade0586/libcompiler_rt.a
